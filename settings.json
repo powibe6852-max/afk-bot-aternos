@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "DbgamingLive",
+    "username": "afkbotladle",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
-    "version": "1.21.1"
+    "ip": "THUNDERMCHERE.aternos.me",
+    "port": 31803,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
